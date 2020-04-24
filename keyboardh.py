@@ -1,4 +1,6 @@
-"""1- We're gonna be using pynput so first you gotta have pip installed (i made a tutorial on that), then install 
+"""Hello guys this program allows us to create a keyboard history (keylogger)
+
+1- We're gonna be using pynput so first you gotta have pip installed (i made a tutorial on that), then install 
 pynput by typing in terminal (pip3 install pynput)
 
 2- Create the file where you wanna save the history"""
